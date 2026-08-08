@@ -1,5 +1,8 @@
 # Dry Waste Classification Dataset (Metal, Paper, Plastic)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21849964.svg)](https://doi.org/10.5281/zenodo.21849964)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
 Single-item images of dry waste, captured using a purpose-built automated
 sorting device in 2020, in a fixed top-down orientation against a
 consistent background.
@@ -10,8 +13,8 @@ code, and baseline results.
 
 ## Dataset access
 
+- **Data + citable DOI (Zenodo):** https://doi.org/10.5281/zenodo.21849964
 - **Data (Kaggle):** [add Kaggle dataset URL here]
-- **Data + citable DOI (Zenodo):** 10.5281/zenodo.21849964
 
 ## Contents of this repository
 
@@ -76,7 +79,7 @@ python code/train_baseline_classifier.py
 
 ## License
 
-- **Dataset:** CC BY 4.0 (see the Kaggle/Zenodo listings)
+- **Dataset:** CC BY 4.0
 - **Code in this repository:** MIT — see `LICENSE-CODE`
 
 ## Citation
@@ -84,8 +87,12 @@ python code/train_baseline_classifier.py
 If you use this dataset or code, please cite:
 
 ```
-[Author Name]. (2026). Dry Waste Classification Dataset
-(Metal, Paper, Plastic) [Data set]. Zenodo. https://doi.org/[DOI]
+Jannati, K. (2026). Dry Waste Classification Dataset (Metal, Paper,
+Plastic) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.21849964
 ```
 
 See `CITATION.cff` for machine-readable citation metadata.
+
+## Contact
+
+Kamal Jannati — https://github.com/Kamaljust
