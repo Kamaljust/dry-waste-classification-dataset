@@ -1,0 +1,14 @@
+{
+  "metal": {
+    "train": 604,
+    "val": 151
+  },
+  "paper": {
+    "train": 464,
+    "val": 115
+  },
+  "plastic": {
+    "train": 568,
+    "val": 141
+  }
+}
