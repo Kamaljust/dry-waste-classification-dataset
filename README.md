@@ -11,7 +11,7 @@ code, and baseline results.
 ## Dataset access
 
 - **Data (Kaggle):** [add Kaggle dataset URL here]
-- **Data + citable DOI (Zenodo):** [add Zenodo DOI link here]
+- **Data + citable DOI (Zenodo):10.5281/zenodo.21849964
 
 ## Contents of this repository
 
